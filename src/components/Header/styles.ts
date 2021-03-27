@@ -1,7 +1,8 @@
 import styled from 'styled-components'
 
 export const Container = styled.header`
-  background: var(--blue);
+  //background: var(--blue);
+  background-image: linear-gradient(45deg, var(--green), var(--blue));
   height: 13.25rem;
 `;
 
