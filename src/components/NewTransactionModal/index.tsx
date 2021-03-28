@@ -16,6 +16,7 @@ export function NewTransactionModal({ isOpen, onRequestClose }:NewTransactionMod
     > 
       <Container>
         <h2>Cadastrar Transação</h2>
+
         <input
           placeholder="Título"
         />
@@ -32,7 +33,6 @@ export function NewTransactionModal({ isOpen, onRequestClose }:NewTransactionMod
         <button type="submit">
           Cadastrar
         </button>
-
       </Container>
     </Modal>
   )
