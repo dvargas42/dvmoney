@@ -12,6 +12,7 @@ export const GlobalStyle = createGlobalStyle`
     --text-body: #969cb3;
     --background: #f0f2f5;
     --shape: #ffffff;
+    --input-background: #e7e9ee;
   }
 
   * {
@@ -26,7 +27,7 @@ export const GlobalStyle = createGlobalStyle`
     @media (max-width: 1080px) {
       font-size: 93.75%;
     }
-    
+
     @media (max-width: 720px) {
       font-size: 87.5%;
     }
