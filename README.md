@@ -63,23 +63,13 @@ Providers can see all their appointments, manage the times, also see if one clie
 
 Technologies that I used to develop this api
 
+
+- [React.js](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Express](https://expressjs.com/pt-br/)
-- [Multer](https://github.com/expressjs/multer)
-- [TypeORM](https://typeorm.io/#/)
-- [JWT-token](https://jwt.io/)
-- [uuid v4](https://github.com/thenativeweb/uuidv4/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Date-fns](https://date-fns.org/)
-- [Jest](https://jestjs.io/)
-- [SuperTest](https://github.com/visionmedia/supertest)
-- [Husky](https://github.com/typicode/husky)
-- [Commitlint](https://github.com/conventional-changelog/commitlint)
-- [Commitizen](https://github.com/commitizen/cz-cli)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [EditorConfig](https://editorconfig.org/)
+- [Mirage](https://miragejs.com/)
+- [Axios](https://github.com/axios/axios)
+- [Styled-Components](https://styled-components.com/)
 
 ## 💻 Getting started
 
@@ -89,14 +79,11 @@ Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomn
 
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
-- One instance of [PostgreSQL](https://www.postgresql.org/)
-
-> Obs.: I recommend use docker
 
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/dvargas42/gobarber.git
+$ git clone https://github.com/dvargas42/dvmoney.git
 ```
 
 **Follow the steps below**
@@ -105,27 +92,8 @@ $ git clone https://github.com/dvargas42/gobarber.git
 # Install the dependencies
 $ yarn
 
-# Make a copy of '.env.example' to '.env'
-# and set with YOUR environment variables.
-# The aws variables do not need to be filled for dev environment
-$ cp .env.example .env
-
-# Create the instance of postgreSQL using docker
-$ docker run --name gobarber-postgres -e POSTGRES_USER=docker \
-              -e POSTGRES_DB=gobarber -e POSTGRES_PASSWORD=docker \
-              -p 5432:5432 -d postgres
-
-# Create the instance of mongoDB using docker
-$ docker run --name gobarber-mongodb -p 27017:27017 -d -t mongo
-
-# Create the instance of redis using docker
-$ docker run --name gobarber-redis -p 6379:6379 -d -t redis:alpine
-
-# Once the services are running, run the migrations
-$ yarn typeorm migration:run
-
 # To finish, run the api service
-$ yarn dev:server
+$ yarn start
 
 # Well done, project is started!
 ```
@@ -138,14 +106,14 @@ $ yarn dev:server
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork EliasGcf/gobarber-api
+$ gh repo fork dvargas42/dvmoney-api
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd gobarber-api
+$ git clone your-fork-url && cd dvmoney-api
 
 # Create a branch with your feature
 $ git checkout -b my-feature
