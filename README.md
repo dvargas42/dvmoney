@@ -5,7 +5,6 @@
 <h3 align="center">
   React Application for dvmoney project
 </h3>
-#23F
 
 <p align="center">The best way to store your financial expenses!</p>
 
@@ -27,7 +26,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/dvargas42/dvmoney?color=%23FF9000">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/dvargas42/dvargas42?color=%23FF9000">
+  <img alt="GitHub" src="https://img.shields.io/github/license/dvargas42/dvmoney">
 </p>
 
 
@@ -48,6 +47,8 @@ This application provides the basic operation for controlling expenses.
 
 The user can enter their inputs and outputs and they will be registered temporarily.
 ## 📸 Sreenshots
+
+Images of the application in operation.
 
 <p align="center">
 <img alt="Screen01" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143113/dvmoney/dvmoneyScreen01_jasdzs.png" width="400px">
