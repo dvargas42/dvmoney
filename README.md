@@ -9,16 +9,6 @@
 <p align="center">The best way to store your financial expenses!</p>
 
 <p align="center">
-<img alt="Screen01" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143113/dvmoney/dvmoneyScreen01_jasdzs.png" width="200px">
-<img alt="Screen02" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen02_oyy8mc.png" width="200px">
-</p>
-
-<p align="center">
-<img alt="Screen03" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen03_juwp7v.png" width="200px">
-<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="200px">
-</p>
-
-<p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dvargas42/gobarber-api?color=%23FF9000">
 
   <a href="https://www.linkedin.com/in/daniel-santos-040983ab/" target="_blank" rel="noopener noreferrer">
@@ -37,6 +27,17 @@
 
   <img alt="GitHub" src="https://img.shields.io/github/license/dvargas42/dvargas42?color=%23FF9000">
 </p>
+
+<p align="center">
+<img alt="Screen01" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143113/dvmoney/dvmoneyScreen01_jasdzs.png" width="300px">
+<img alt="Screen02" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen02_oyy8mc.png" width="300px">
+</p>
+
+<p align="center">
+<img alt="Screen03" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen03_juwp7v.png" width="300px">
+<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="300px">
+</p>
+
 
 <p align="center">
   <a href="#%EF%B8%8F-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
