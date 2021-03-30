@@ -56,7 +56,7 @@ Providers can see all their appointments, manage the times, also see if one clie
 
 <p align="center">
 <img alt="Screen03" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen03_juwp7v.png" width="350px">
-<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="30px">
+<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="350px">
 </p>
 
 ## 🚀 Technologies
