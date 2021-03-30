@@ -5,12 +5,13 @@
 <h3 align="center">
   React Application for dvmoney project
 </h3>
+#23F
 
 <p align="center">The best way to store your financial expenses!</p>
 
 <p align="center">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dvargas42/dvmoney?color=%23FF9000">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dvargas42/dvmoney?color=%2233FF00">
 
   <a href="https://www.linkedin.com/in/daniel-santos-040983ab/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Daniel%20Vargas-%23FF9000">
