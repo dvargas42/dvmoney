@@ -9,10 +9,10 @@
 <p align="center">The best way to store your financial expenses!</p>
 
 <div align="center">
-<img alt="Screen01" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143113/dvmoney/dvmoneyScreen01_jasdzs.png" width="100px">
-<img alt="Screen02" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen02_oyy8mc.png" width="100px">
-<img alt="Screen03" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen03_juwp7v.png" width="100px">
-<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="100px">
+<img alt="Screen01" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143113/dvmoney/dvmoneyScreen01_jasdzs.png" width="200px">
+<img alt="Screen02" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen02_oyy8mc.png" width="200px">
+<img alt="Screen03" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen03_juwp7v.png" width="200px">
+<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="200px">
 </div>
 
 <p align="center">
