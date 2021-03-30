@@ -105,14 +105,14 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork dvargas42/dvmoney-api
+$ gh repo fork dvargas42/dvmoney
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd dvmoney-api
+$ git clone your-fork-url && cd dvmoney
 
 # Create a branch with your feature
 $ git checkout -b my-feature
