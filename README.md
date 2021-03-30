@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="./src/assets/logo.svg" width="200px">
+  <img alt="Logo" src="./src/assets/logo.svg" width="300px">
 </h1>
 
 <h3 align="center">
@@ -7,6 +7,13 @@
 </h3>
 
 <p align="center">The best way to store your financial expenses!</p>
+
+<div align="center">
+<img alt="Screen01" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143113/dvmoney/dvmoneyScreen01_jasdzs.png" width="100px">
+<img alt="Screen02" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen02_oyy8mc.png" width="100px">
+<img alt="Screen03" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen03_juwp7v.png" width="100px">
+<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="100px">
+</div>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dvargas42/gobarber-api?color=%23FF9000">
