@@ -25,6 +25,12 @@ export const Container = styled.div`
       font-weight: 500;
     }
 
+    &.withdraw {
+      strong {
+        color: var(--red)
+      }
+    }
+
     &.highlight-background {
       background: var(--green);
       color: var(--shape)
