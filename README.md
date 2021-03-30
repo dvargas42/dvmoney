@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="./src/assets/logo.svg" width="250px">
+  <img alt="Logo" src="./src/assets/logo.svg" width="350px">
 </h1>
 
 <h3 align="center">
@@ -28,19 +28,12 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/dvargas42/dvargas42?color=%23FF9000">
 </p>
 
-<p align="center">
-<img alt="Screen01" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143113/dvmoney/dvmoneyScreen01_jasdzs.png" width="300px">
-<img alt="Screen02" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen02_oyy8mc.png" width="300px">
-</p>
 
-<p align="center">
-<img alt="Screen03" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen03_juwp7v.png" width="300px">
-<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="300px">
-</p>
 
 
 <p align="center">
   <a href="#%EF%B8%8F-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-screnshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -54,6 +47,17 @@ This api provides everything needed to organize appointments between the barbers
 Customers can choose the best time available to them.
 
 Providers can see all their appointments, manage the times, also see if one client canceled the schedule.
+## 📸 Sreenshots
+
+<p align="center">
+<img alt="Screen01" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143113/dvmoney/dvmoneyScreen01_jasdzs.png" width="350px">
+<img alt="Screen02" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen02_oyy8mc.png" width="350px">
+</p>
+
+<p align="center">
+<img alt="Screen03" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen03_juwp7v.png" width="350px">
+<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="30px">
+</p>
 
 ## 🚀 Technologies
 
