@@ -9,20 +9,21 @@
 <p align="center">The best way to store your financial expenses!</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dvargas42/gobarber-api?color=%23FF9000">
+
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dvargas42/dvmoney?color=%23FF9000">
 
   <a href="https://www.linkedin.com/in/daniel-santos-040983ab/" target="_blank" rel="noopener noreferrer">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-daniel%20vargas-%23FF9000">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Daniel%20Vargas-%23FF9000">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dvargas42/gobarber-api?color=%23FF9000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dvargas42/dvmoney?color=%23FF9000">
 
-  <a href="https://github.com/dvargas42/GoBarber/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dvargas42/gobarber-api?color=%23FF9000">
+  <a href="https://github.com/dvargas42/dvmoney/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dvargas42/dvmoney?color=%23FF9000">
   </a>
 
-  <a href="https://github.com/dvargas42/GoBarber/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/dvargas42/gobarber-api?color=%23FF9000">
+  <a href="https://github.com/dvargas42/dvmoney/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/dvargas42/dvmoney?color=%23FF9000">
   </a>
 
   <img alt="GitHub" src="https://img.shields.io/github/license/dvargas42/dvargas42?color=%23FF9000">
@@ -48,13 +49,13 @@ The user can enter their inputs and outputs and they will be registered temporar
 ## 📸 Sreenshots
 
 <p align="center">
-<img alt="Screen01" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143113/dvmoney/dvmoneyScreen01_jasdzs.png" width="450px">
-<img alt="Screen02" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen02_oyy8mc.png" width="450px">
+<img alt="Screen01" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143113/dvmoney/dvmoneyScreen01_jasdzs.png" width="400px">
+<img alt="Screen02" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen02_oyy8mc.png" width="400px">
 </p>
 
 <p align="center">
-<img alt="Screen03" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen03_juwp7v.png" width="450px">
-<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="450px">
+<img alt="Screen03" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen03_juwp7v.png" width="400px">
+<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="400px">
 </p>
 
 ## 🚀 Technologies
