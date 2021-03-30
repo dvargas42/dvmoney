@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="./src/assets/logo.svg" width="350px">
+  <img alt="Logo" src="./src/assets/logo.svg" width="400px">
 </h1>
 
 <h3 align="center">
@@ -40,23 +40,21 @@
   <a href="#-license">License</a>
 </p>
 
-## 💇🏻‍♂️ About the project
+## 💇🏼 About the project
 
-This api provides everything needed to organize appointments between the barbers and customers.
+This application provides the basic operation for controlling expenses.
 
-Customers can choose the best time available to them.
-
-Providers can see all their appointments, manage the times, also see if one client canceled the schedule.
+The user can enter their inputs and outputs and they will be registered temporarily.
 ## 📸 Sreenshots
 
 <p align="center">
-<img alt="Screen01" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143113/dvmoney/dvmoneyScreen01_jasdzs.png" width="350px">
-<img alt="Screen02" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen02_oyy8mc.png" width="350px">
+<img alt="Screen01" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143113/dvmoney/dvmoneyScreen01_jasdzs.png" width="450px">
+<img alt="Screen02" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen02_oyy8mc.png" width="450px">
 </p>
 
 <p align="center">
-<img alt="Screen03" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen03_juwp7v.png" width="350px">
-<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="350px">
+<img alt="Screen03" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen03_juwp7v.png" width="450px">
+<img alt="Screen04" src="https://res.cloudinary.com/dvargas42/image/upload/v1617143112/dvmoney/dvmoneyScreen04_ikmoie.png" width="450px">
 </p>
 
 ## 🚀 Technologies
@@ -64,7 +62,7 @@ Providers can see all their appointments, manage the times, also see if one clie
 Technologies that I used to develop this api
 
 
-- [React.js](https://reactjs.org/)
+- [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Mirage](https://miragejs.com/)
@@ -72,8 +70,6 @@ Technologies that I used to develop this api
 - [Styled-Components](https://styled-components.com/)
 
 ## 💻 Getting started
-
-Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomniaButton) button
 
 ### Requirements
 
