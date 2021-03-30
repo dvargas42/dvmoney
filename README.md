@@ -36,10 +36,6 @@
   <a href="#-license">License</a>
 </p>
 
-<p id="insomniaButton" align="center">
-  <a href="" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
 ## 💇🏻‍♂️ About the project
 
 This api provides everything needed to organize appointments between the barbers and customers.
