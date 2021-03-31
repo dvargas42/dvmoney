@@ -10,23 +10,23 @@
 
 <p align="center">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dvargas42/dvmoney?color=%2233FF00">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dvargas42/dvmoney?color=%33cc9500">
 
   <a href="https://www.linkedin.com/in/daniel-santos-040983ab/" target="_blank" rel="noopener noreferrer">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Daniel%20Vargas-%23FF9000">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Daniel%20Vargas-%33cc9500">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dvargas42/dvmoney?color=%23FF9000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dvargas42/dvmoney?color=%33cc9500">
 
   <a href="https://github.com/dvargas42/dvmoney/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dvargas42/dvmoney?color=%23FF9000">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dvargas42/dvmoney?color=%33cc9500">
   </a>
 
   <a href="https://github.com/dvargas42/dvmoney/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/dvargas42/dvmoney?color=%23FF9000">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/dvargas42/dvmoney?color=%33cc9500">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/dvargas42/dvmoney">
+  <img alt="GitHub" src="https://img.shields.io/github/license/dvargas42/dvmoney?color=%33cc9500">
 </p>
 
 
