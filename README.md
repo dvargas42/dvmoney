@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="./src/assets/logo.svg" width="400px">
+  <img alt="Logo" src="https://res.cloudinary.com/dvargas42/image/upload/v1617163234/dvmoney/logo_rjg2su.svg" width="400px">
 </h1>
 
 <h3 align="center">
